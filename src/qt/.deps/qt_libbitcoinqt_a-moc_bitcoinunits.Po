@@ -1,0 +1,4 @@
+qt/qt_libbitcoinqt_a-moc_bitcoinunits.o: qt/moc_bitcoinunits.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
